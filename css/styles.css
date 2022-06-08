@@ -1,0 +1,34 @@
+body {
+  background-color: #efead8;
+}
+
+* {
+  font-family: Verdana, sans-serif;
+}
+
+hr {
+  border-color: #d0c9c0;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 100%;
+}
+
+h1 {
+  color: #5f7161;
+}
+
+h3 {
+  color: #6d8b74;
+}
+
+/*************************************************CLASS SELECTORS*****************************************/
+
+.profession {
+  color: #cc9c75;
+  filter: drop-shadow(2px 2px 4px #be8c63);
+}
+
+.profession:hover {
+  color: coral;
+}
